@@ -1,9 +1,9 @@
 <h1 align="center">Hello World! 👋 I'm Walter Retke</h1>
 
 <p align="center">
-  I'm a passionate front-end developer with 20 years of experience. I love crafting beautiful and functional web experiences.
+  A Full Stack Developer and an advocate for building responsive, accessible, and inclusive digital products and experiences for the web based in Santa Catarina, Brazil.
   <br>
-  Open to collaborating on innovative projects and exciting challenges.
+  Open to project collaborations.
 </p>
 
 <p align="center">
